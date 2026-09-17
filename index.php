@@ -23,6 +23,7 @@ Kelas: XI PPLG 3
         $panggil->latihan();
         echo "Nama: " . $namaDariPHP;
     ?>
+    <br>
     <img src="assets/images/monyet.jfif" alt="Gambar Monyet">
 </body>
 </html>
